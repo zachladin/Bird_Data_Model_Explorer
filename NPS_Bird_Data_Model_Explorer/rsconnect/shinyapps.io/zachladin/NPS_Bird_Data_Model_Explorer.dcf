@@ -1,0 +1,12 @@
+name: NPS_Bird_Data_Model_Explorer
+title: NPS_Bird_Data_Model_Explorer
+username:
+account: zachladin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2493606
+bundleId: 3307046
+url: https://zachladin.shinyapps.io/NPS_Bird_Data_Model_Explorer/
+when: 1592925734.19293
+asMultiple: FALSE
+asStatic: FALSE
